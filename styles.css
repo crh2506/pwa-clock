@@ -1,0 +1,17 @@
+/* PWA Clock Styling (Optional, overrideable) */
+
+body {
+  font-family: monospace;
+  background: #111;
+  color: #0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#clock {
+  font-size: 4rem;
+}
